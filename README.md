@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img width="836" alt="image" src="https://github.com/user-attachments/assets/e730c206-a5a0-4d34-9ad7-0a96989cdc78" />
+I am a Software Developer at [Sonatype](sonatype.com)
+
+![screeshot.png](screeshot.png)
